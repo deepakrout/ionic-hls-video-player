@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Introduction to Angular Signals",
+    "description": "Learn how Angular Signals work and how they simplify reactive state management.",
+    "videoUrl": "https://your-cdn.example.com/videos/angular-signals/stream.m3u8",
+    "thumbnailUrl": "https://your-cdn.example.com/thumbnails/angular-signals.jpg"
+  },
+  {
+    "title": "Building Ionic Apps with Capacitor",
+    "description": "A comprehensive guide to setting up Ionic with Capacitor for cross-platform mobile development.",
+    "videoUrl": "https://your-cdn.example.com/videos/ionic-capacitor/stream.m3u8",
+    "thumbnailUrl": "https://your-cdn.example.com/thumbnails/ionic-capacitor.jpg"
+  }
+]

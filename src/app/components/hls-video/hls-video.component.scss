@@ -1,0 +1,15 @@
+.hls-video-wrapper {
+  display: block;
+  width: 100%;
+  background: #000;
+  border-radius: 8px;
+  overflow: hidden;
+
+  video {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+  }
+}
